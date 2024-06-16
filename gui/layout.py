@@ -9,7 +9,7 @@ class Layout:
         """
         st.markdown(
             """
-            <h1 style='text-align: center;'>LankaLAW Chat with PDF 💬</h1>
+            <h1 style='text-align: center;'>LankaLAW ChatPDF 💬</h1>
             """,
             unsafe_allow_html=True,
         )
